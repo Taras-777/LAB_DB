@@ -1,1 +1,1 @@
-# LAB_DB
+# Hibernate_crud_app
