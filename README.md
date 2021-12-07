@@ -1,6 +1,6 @@
 # Lab 7
 ## Task
-SAVED PROCEDURES  
+
 1. Ensure parameterized insertion of new values ​​in  
 Employees table.  
 2. Create a package that inserts 10 rows into the Scientist table  
